@@ -1,0 +1,15 @@
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\bin\Debug\net6.0\phone_book_array.exe
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\bin\Debug\net6.0\phone_book_array.deps.json
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\bin\Debug\net6.0\phone_book_array.runtimeconfig.json
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\bin\Debug\net6.0\phone_book_array.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\bin\Debug\net6.0\phone_book_array.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.vbproj.AssemblyReference.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.AssemblyInfoInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.AssemblyInfo.vb
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.vbproj.CoreCompileInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\refint\phone_book_array.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\phone_book_array.genruntimeconfig.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\phone_book_array_sn\phone_book_array\obj\Debug\net6.0\ref\phone_book_array.dll

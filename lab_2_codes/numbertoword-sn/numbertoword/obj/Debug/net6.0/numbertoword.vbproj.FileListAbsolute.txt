@@ -1,0 +1,15 @@
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.vbproj.AssemblyReference.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.AssemblyInfoInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.AssemblyInfo.vb
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.vbproj.CoreCompileInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\bin\Debug\net6.0\numbertoword.exe
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\bin\Debug\net6.0\numbertoword.deps.json
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\bin\Debug\net6.0\numbertoword.runtimeconfig.json
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\bin\Debug\net6.0\numbertoword.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\bin\Debug\net6.0\numbertoword.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\refint\numbertoword.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\numbertoword.genruntimeconfig.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\numbertoword-sn\numbertoword\obj\Debug\net6.0\ref\numbertoword.dll

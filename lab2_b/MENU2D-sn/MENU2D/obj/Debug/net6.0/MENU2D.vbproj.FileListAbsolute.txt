@@ -1,0 +1,15 @@
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\bin\Debug\net6.0\MENU2D.exe
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\bin\Debug\net6.0\MENU2D.deps.json
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\bin\Debug\net6.0\MENU2D.runtimeconfig.json
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\bin\Debug\net6.0\MENU2D.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\bin\Debug\net6.0\MENU2D.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.vbproj.AssemblyReference.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.AssemblyInfoInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.AssemblyInfo.vb
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.vbproj.CoreCompileInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\refint\MENU2D.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\MENU2D.genruntimeconfig.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\MENU2D-sn\MENU2D\obj\Debug\net6.0\ref\MENU2D.dll

@@ -1,0 +1,47 @@
+Lab 2B
+
+USING ARRAYLIST
+===============
+MENU2D 
+
+A restaurant has a menu, each menu has multiple items, each item has the following fields: 
+Item name, Item price and Item rate. 
+Create a 2D array Menu containing the items informations. 
+
+Array should look something like this:   
+Menu
+Item 0: Kebab 9.99 5 
+Item 1: Beef 6.99 7 
+Item 2: Chicken 4.00 9 
+Item 3: Beer 0.99 10   
+
+When your program starts, the menu should contain some items, ask the user if he wants to enter new items, 
+if so get then the new item and add it to the menu until the users finishes, 
+then print out the menu in your console. 
+
+===================================================================================================
+
+PHONE BOOK 
+
+Create a phone book with a couple of entries. 
+Give the user the following options 
+
+1. Add 
+add a new entry to the phonebook Name and Phone number 
+
+2. Edit 
+edit an existed entry by the id(index)
+
+3. Delete 
+delete an existed entry by the id(index)
+
+4. Display 
+display all the entries 
+
+5. Exit
+exit the program   
+
+====================================================================================================
+
+User's entry validation is expected for all 2 programs 
+All programs should be extendable because we'll be using them later on
